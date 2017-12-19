@@ -1,5 +1,5 @@
 import UrlSearchFilter from './url-search-filter';
 
-export default{
+export default {
     UrlSearchFilter
 }
